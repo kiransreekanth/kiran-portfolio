@@ -120,7 +120,7 @@ const Contact = () => {
                   Download my resume to learn more about my experience and skills.
                 </p>
                 <a
-                  href="/Kiran_S_Resume.pdf"
+                  href="/kiran-portfolio/Kiran_S_Resume.pdf"
                   download
                   className="inline-flex items-center gap-2 px-4 py-2 md:px-6 md:py-3 bg-blue-600 hover:bg-blue-700 rounded-lg font-medium transition-all duration-300 hover:scale-105 w-full justify-center shadow-lg shadow-blue-500/50 text-sm md:text-base"
                 >
