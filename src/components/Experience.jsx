@@ -11,7 +11,7 @@ const Experience = () => {
       description:
         'Contributing as a Full Stack Developer intern at FindAStartup, focusing on developing and enhancing web-based platforms using React.js, Node.js, and Firebase as part of the student startup accelerator ecosystem. Collaborating with cross-functional teams to deliver efficient, scalable, and user-focused solutions.',
       current: true,
-      logo: '/logos/findastartup-logo.png'
+      logo: '/kiran-portfolio/logos/findastartup-logo.png'
     },
     {
       company: 'Macroots Systems & Network Pvt. Ltd',
@@ -21,7 +21,7 @@ const Experience = () => {
       description:
         'Gained hands-on experience in IT infrastructure and system maintenance. Provided technical support to staff, diagnosed and resolved hardware/software issues, and ensured minimal downtime. Assisted in network monitoring, troubleshooting, and documenting technical procedures to improve efficiency and reliability.',
       current: false,
-      logo: '/logos/macroots-logo.png'
+      logo: '/kiran-portfolio/logos/macroots-logo.png'
     }
   ];
 
