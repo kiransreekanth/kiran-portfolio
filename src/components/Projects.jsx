@@ -9,7 +9,7 @@ const Projects = () => {
       tech: ['Node.js', 'JavaScript', 'NASA API', 'Real-time Data'],
       github: 'https://github.com/kiransreekanth/NASA_METEOR_MADNESS',
       date: 'Sept - Oct 2025',
-      image: '/projects/doomsday.PNG',
+      image: '/kiran-portfolio/projects/doomsday.PNG',
       category: 'API Integration & Backend'
     },
     {
@@ -18,7 +18,7 @@ const Projects = () => {
       tech: ['MongoDB', 'Express', 'React', 'Node.js'],
       github: 'https://github.com/kiransreekanth/Recipo',
       date: 'Feb - Mar 2025',
-      image: '/projects/recipo.png',
+      image: '/kiran-portfolio/projects/recipo.png',
       category: 'Full Stack Development'
     },
     {
@@ -27,7 +27,7 @@ const Projects = () => {
       tech: ['AI/ML', 'LLaMA', 'Mobile Dev', 'Python'],
       github: 'https://github.com/kiransreekanth/Mind-Track-App',
       date: 'Mar - Apr 2025',
-      image: '/projects/mindtrack.PNG',
+      image: '/kiran-portfolio/projects/mindtrack.PNG',
       category: 'AI Development & Fine Tuning'
     },
     {
@@ -36,7 +36,7 @@ const Projects = () => {
       tech: ['AI/ML', 'Flutter', 'Flask', 'MySQL'],
       github: 'https://github.com/kiransreekanth/CaloriQ-App',
       date: 'Jul - Aug 2025',
-      image: '/projects/caloriq.png',
+      image: '/kiran-portfolio/projects/caloriq.png',
       category: 'AI & Health Tech'
     }
   ];
