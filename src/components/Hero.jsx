@@ -57,7 +57,7 @@ const Hero = () => {
                   {/* Inner image container */}
                   <div className="w-full h-full rounded-full overflow-hidden">
                     <img 
-                      src="/kiran-photo.PNG" 
+                      src="/kiran-portfolio/kiran-photo.PNG" 
                       alt="Kiran S" 
                       className="w-full h-full object-cover"
                       onError={(e) => {
