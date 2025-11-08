@@ -35,7 +35,7 @@ const Hero = () => {
                 Get in touch
               </button>
               <a
-                href="/Kiran_S_Resume.pdf"
+                href="/kiran-portfolio/Kiran_S_Resume.pdf"
                 download
                 className="px-5 py-2 md:px-6 md:py-3 border-2 border-white hover:bg-white hover:text-black rounded-lg font-medium transition-all duration-300 text-center w-full sm:w-auto text-sm md:text-base"
               >
