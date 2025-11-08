@@ -7,21 +7,21 @@ const Certifications = () => {
       title: 'AI Transformative Learning with TechSaksham',
       issuer: 'Edunet Foundation, AICTE, Microsoft, SAP',
       year: '2025',
-      image: '/certificates/cert1.png',
+      image: '/kiran-portfolio/certificates/cert1.png',
       pdf: 'https://drive.google.com/file/d/1Er25VvmcDkoWQx91ZnvQYSQ1Er0Uaka-/view?usp=sharing' // Replace YOUR_FILE_ID_1 with actual Google Drive file ID
     },
     {
       title: 'Google Cloud Career Launchpad',
       issuer: 'Google Cloud',
       year: '2024',
-      image: '/certificates/cert2.png',
+      image: '/kiran-portfolio/certificates/cert2.png',
       pdf: 'https://drive.google.com/file/d/1r_zHFECZe1OINy9OtfuaR8aiRngQYoN9/view?usp=sharing' // Replace YOUR_FILE_ID_2 with actual Google Drive file ID
     },
     {
       title: 'AI Product Development',
       issuer: 'Freston Analytics',
       year: '2024',
-      image: '/certificates/cert3.png',
+      image: '/kiran-portfolio/certificates/cert3.png',
       pdf: 'https://drive.google.com/file/d/1i8tk5_usHJY2m4KNJnVYRI6VDQZPX5qd/view?usp=sharing' // Replace YOUR_FILE_ID_3 with actual Google Drive file ID
     }
   ];
